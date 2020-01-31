@@ -106,7 +106,7 @@ gauge = {
     caption_fg_colour=0xFFFFFF,    caption_fg_alpha=0.3,
 },
 {
-    name='cpu',                    arg='cpu4',                  max_value=100,
+    name='cpu',                    arg='GPU Load',                  max_value=100,
     x=75,                          y=235,
     graph_radius=60,
     graph_thickness=10,
